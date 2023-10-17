@@ -1,4 +1,4 @@
-var numOfBottles = 99
+var numOfBottles = 98
 while (numOfBottles >= 0) {
     var bottleWord = "bottle" ;
     if (numOfBottles === 1 ) {
